@@ -1,1 +1,1 @@
-# sic-technical-assignment-1-
+# sic-technical-assignment-1
